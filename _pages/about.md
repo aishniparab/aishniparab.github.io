@@ -23,7 +23,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit:  # leave blank to include all the blog posts
 ---
-**Bio:**
+**Bio**
 I am a PhD Candidate at the [Department of Statistics and Data Science](https://statistics.ucla.edu) at the University of California, Los Angeles, supervised by [Hongjing Lu](https://www.psych.ucla.edu/faculty-page/hongjing/) and [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html). I am currently a Research Intern on the [Program Synthesis team](https://www.microsoft.com/en-us/research/group/prose/) at Microsoft. 
 
 I obtained a M.S. in Computer Science from UCLA with generous support from Google Deepmind. I completed my B.S. in Computer Science from UC Santa Cruz. 
