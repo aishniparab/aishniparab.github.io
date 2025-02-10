@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share my talk on Extracting Structured Data from Multi-Modal Input, presented at the Mathematics of Intelligences Long Program at the Institute for Pure and Applied Mathematics (IPAM). I discuss approaches for modeling structured data across different modalities and their implications for perception and reasoning.
+Excited to share my talk on "Extracting Structured Data from Multi-Modal Input", presented at the Mathematics of Intelligences Long Program at the Institute for Pure and Applied Mathematics (IPAM). I discuss approaches for modeling structured data across different modalities and their implications for perception and reasoning. [View abstract](http://www.ipam.ucla.edu/abstract/?tid=20135&pcode=MOIWS3). [Watch on Youtube](https://www.youtube.com/watch?v=iIKwmENNWdM).
