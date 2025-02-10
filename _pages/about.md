@@ -2,30 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mathematical Sciences 8125</p>
+    <p>520 Portola Plaza</p>
+    <p>Los Angeles, CA 90095</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit:  # leave blank to include all the blog posts
 ---
+I am interested in representations and models that capture the structured yet uncertain nature of visual perception and reasoning. Drawing inspiration from human cognition, my research focuses on probabilistic models that integrate structured representations, such as symbolic languages, to enable more flexible and generalizable learning. 
 
 I am a PhD Candidate at the [Department of Statistics and Data Science](https://statistics.ucla.edu) at University of California, Los Angeles, supervised by [Hongjing Liu](https://www.psych.ucla.edu/faculty-page/hongjing/) and [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html). I am currently an Applied Scientist intern on the [Program Synthesis team](https://www.microsoft.com/en-us/research/group/prose/) at Microsoft. 
 
