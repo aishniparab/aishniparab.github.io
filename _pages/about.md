@@ -23,6 +23,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit:  # leave blank to include all the blog posts
 ---
+**Bio:**
 I am interested in representations and models that capture the structured yet uncertain nature of visual perception and reasoning. Drawing inspiration from human cognition, my research focuses on probabilistic models that integrate structured representations, such as symbolic languages, to enable more flexible and generalizable learning. 
 
 I am a PhD Candidate at the [Department of Statistics and Data Science](https://statistics.ucla.edu) at the University of California, Los Angeles, supervised by [Hongjing Lu](https://www.psych.ucla.edu/faculty-page/hongjing/) and [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html). I am currently a Research Intern on the [Program Synthesis team](https://www.microsoft.com/en-us/research/group/prose/) at Microsoft. 
