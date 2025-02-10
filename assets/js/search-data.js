@@ -63,16 +63,8 @@ ninja.data = [{
           window.location.href = "/blog/2025/gen-models-top-bot/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-excited-to-share-my-talk-on-extracting-structured-data-from-multi-modal-input-presented-at-the-mathematics-of-intelligences-long-program-at-the-institute-for-pure-and-applied-mathematics-ipam-i-discuss-approaches-for-modeling-structured-data-across-different-modalities-and-their-implications-for-perception-and-reasoning",
+          title: 'Excited to share my talk on Extracting Structured Data from Multi-Modal Input, presented...',
           description: "",
           section: "News",},{
         id: 'social-github',
