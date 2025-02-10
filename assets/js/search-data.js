@@ -63,8 +63,8 @@ ninja.data = [{
           window.location.href = "/blog/2025/gen-models-top-bot/";
         
       },
-    },{id: "news-excited-to-share-my-talk-on-extracting-structured-data-from-multi-modal-input-presented-at-the-mathematics-of-intelligences-long-program-at-the-institute-for-pure-and-applied-mathematics-ipam-i-discuss-approaches-for-modeling-structured-data-across-different-modalities-and-their-implications-for-perception-and-reasoning",
-          title: 'Excited to share my talk on Extracting Structured Data from Multi-Modal Input, presented...',
+    },{id: "news-excited-to-share-my-talk-on-extracting-structured-data-from-multi-modal-input-presented-at-the-mathematics-of-intelligences-long-program-at-the-institute-for-pure-and-applied-mathematics-ipam-i-discuss-approaches-for-modeling-structured-data-across-different-modalities-and-their-implications-for-perception-and-reasoning-view-abstract-watch-on-youtube",
+          title: 'Excited to share my talk on “Extracting Structured Data from Multi-Modal Input”, presented...',
           description: "",
           section: "News",},{
         id: 'social-github',
