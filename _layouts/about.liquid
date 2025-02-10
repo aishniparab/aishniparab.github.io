@@ -64,7 +64,7 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
+    <!-- Social 
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
@@ -75,6 +75,18 @@ layout: default
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
+    {% endif %}-->
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-links">
+          <a href="https://scholar.google.com/citations?user=Roi6B60AAAAJ&hl">Google Scholar</a>
+          <a href="https://github.com/aishniparab" target="_blank">Github</a>
+          <a href="https://www.linkedin.com/in/aishni/" target="_blank">LinkedIn</a>
+          <!-- Add more links as needed -->
+        </div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
     {% endif %}
   </article>
 </div>
