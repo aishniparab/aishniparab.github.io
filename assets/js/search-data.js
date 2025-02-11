@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-core-design-principles-of-neuro-symbolic-models",
+        },{id: "post-the-wonder-of-life-no-1-structure-and-emergence",
+      
+        title: "The Wonder of Life No. 1: Structure and Emergence",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/wonder-of-life/";
+        
+      },
+    },{id: "post-core-design-principles-of-neuro-symbolic-models",
       
         title: "Core Design Principles of Neuro-Symbolic Models",
       
