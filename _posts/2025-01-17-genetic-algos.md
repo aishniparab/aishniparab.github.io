@@ -6,7 +6,7 @@ description:
 tags: evolutionary-algorithms search
 categories: 
 thumbnail: 
-bibliography: 2025-01-17-genetic-algos.bib
+bibliography: /assets/bibliography/2025-01-17-genetic-algos.bib
 ---
 
 Genetic programming (GP) is a computational technique that originated in the 1960s <d-cite key="forrest1996genetic"></d-cite>. It evolves programs through a process similar to natural selection, optimizing for a predefined fitness function. The goal of GP is to create programs that approximate a target function. In the example shown, the target function to approximate is \( y = x^2 \).

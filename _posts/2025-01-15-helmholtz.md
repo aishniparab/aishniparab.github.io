@@ -6,7 +6,7 @@ description:
 tags: helmholtz-machines top-down-and-bottom-up wake-sleep-algorithm definition
 categories: 
 thumbnail: 
-bibliography: 2025-01-15-helmholtz.bib
+bibliography: /assets/bibliography/2025-01-15-helmholtz.bib
 
 ---
 

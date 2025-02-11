@@ -6,7 +6,7 @@ description:
 tags: evolutionary-algorithms search article-notes
 categories: 
 thumbnail: 
-bibliography: 2025-02-11-funsearch.bib
+bibliography: /assets/bibliography/2025-02-11-funsearch.bib
 ---
 A recent paper, *Mathematical Discoveries from Program Search with Large Language Models*<d-cite key="romera2024mathematical"></d-cite>, introduces **FunSearch**, a novel approach that redefines how we solve complex mathematical and computational problems. Instead of searching for solutions directly, **FunSearch searches for functions that describe how to solve a problem**. These functions are essentially programs that encode the structure and logic of the underlying problem. Rather than merely presenting a result, these programs articulate the logical process behind the solution. By evaluating a program across a range of inputs, its effectiveness in solving the problem can be assessed.
 

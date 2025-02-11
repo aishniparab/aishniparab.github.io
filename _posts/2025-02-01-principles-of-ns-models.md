@@ -6,7 +6,7 @@ description:
 tags: neurosymbolic-models
 categories: 
 thumbnail: 
-bibliography: 2025-02-01-principles-of-ns.bib
+bibliography: /assets/bibliography/2025-02-01-principles-of-ns.bib
 
 ---
 

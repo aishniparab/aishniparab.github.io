@@ -6,7 +6,7 @@ description:
 tags: analysis-by-synthesis top-down-and-bottom-up computer-vision 
 categories: 
 thumbnail: 
-bibliography: 2025-01-14-helmholtz.bib
+bibliography: /assets/bibliography/2025-01-14-helmholtz.bib
 ---
 Visual inference depends on the interaction between bottom-up and top-down processes to construct meaningful scene representations <d-cite key="yuille2006vision"></d-cite>. Bottom-up processing begins with low-level features such as edges, depth, shape, and texture, progressively assembling a more structured representation of the image. However, these low-level cues are inherently ambiguous—isolated edges or textures may be difficult to interpret without additional context. Traditional computer vision methods struggle with this uncertainty because they rely primarily on local image features to infer global structure.
 
