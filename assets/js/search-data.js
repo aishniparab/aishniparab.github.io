@@ -41,6 +41,28 @@ ninja.data = [{
           window.location.href = "/blog/2025/wonder-of-life/";
         
       },
+    },{id: "post-mathematical-discoveries-from-program-search-with-large-language-models-a-summary",
+      
+        title: "Mathematical discoveries from program search with large language models: A Summary",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/funsearch/";
+        
+      },
+    },{id: "post-genetic-programming-a-conceptual-crash-course",
+      
+        title: "Genetic Programming: A Conceptual Crash Course",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/genetic-algos/";
+        
+      },
     },{id: "post-core-design-principles-of-neuro-symbolic-models",
       
         title: "Core Design Principles of Neuro-Symbolic Models",
