@@ -10,7 +10,7 @@ bibliography: 2025-01-15-helmholtz.bib
 
 ---
 
-The Helmholtz Machine was one of the first neural network models to use latent variable inference within a generative framework \cite{dayan1995helmholtz}. It combined bottom-up and top-down processes to perform unsupervised learning.
+The Helmholtz Machine was one of the first neural network models to use latent variable inference within a generative framework {% cite dayan1995helmholtz %}. It combined bottom-up and top-down processes to perform unsupervised learning.
 
 At its core, the Helmholtz Machine is a hierarchical generative model designed to learn complex data distributions. It organizes latent variables into multiple levels, where each level captures increasingly abstract features of the data. Observations are encoded into latent variables that represent key features, with lower layers focusing on finer details and higher layers representing more abstract patterns. The model has two main components, a top-down generative model which learns to reconstruct data from latent variables, and a bottom-up recognition model which  approximates the posterior distribution over the latent variables. 
 
