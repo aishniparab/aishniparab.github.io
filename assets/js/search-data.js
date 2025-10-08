@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-field-notes-on-search",
+          title: "field notes on search",
+          description: "How do intelligent systems search in large spaces?",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/search_atlas/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -99,7 +106,52 @@ ninja.data = [{
     },{id: "news-excited-to-share-my-talk-on-extracting-structured-data-from-multi-modal-input-presented-at-the-mathematics-of-intelligences-long-program-at-the-institute-for-pure-and-applied-mathematics-ipam-i-discuss-approaches-for-modeling-structured-data-across-different-modalities-and-their-implications-for-perception-and-reasoning-view-abstract-watch-on-youtube",
           title: 'Excited to share my talk on “Extracting Structured Data from Multi-Modal Input”, presented...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-representation",
+          title: 'representation',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-project-6",
+          title: 'project 6',
+          description: "a project with no image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
+            },},{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
