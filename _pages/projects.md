@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: field notes on search
+permalink: /search_atlas/
+description: How do intelligent systems search in large spaces?
 nav: true
 nav_order: 3
 display_categories: [work, fun]
