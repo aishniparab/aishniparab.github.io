@@ -171,11 +171,11 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts", "_projects"]
 exclude:
   - _posts_old
-  #- _projects
-  #- _pages/projects.md
+#  - _projects
+#  - _pages/projects.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/people.md
