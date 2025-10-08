@@ -1,0 +1,52 @@
+[
+    {
+      "label": "RL / Actions",
+      "x": 18,
+      "y": 78,
+      "color": "#1E88E5",
+      "items": [
+        {"title": "DreamerV3", "url": "https://arxiv.org/abs/2301.04104"},
+        {"title": "Dyna (Sutton, 1990)", "url": "https://www.jstor.org/stable/24912024"}
+      ]
+    },
+    {
+      "label": "Symbolic / Programs",
+      "x": 22,
+      "y": 20,
+      "color": "#2E7D32",
+      "items": [
+        {"title": "Program Synthesis with DSLs", "url": "https://arxiv.org/abs/1611.01989"},
+        {"title": "Lean/Coq Overview", "url": "https://leanprover-community.github.io/overview.html"}
+      ]
+    },
+    {
+      "label": "LLMs / Embeddings",
+      "x": 78,
+      "y": 22,
+      "color": "#C62828",
+      "items": [
+        {"title": "GPT-style Pretraining", "url": "https://arxiv.org/abs/2005.14165"},
+        {"title": "Sentence Transformers", "url": "https://arxiv.org/abs/1908.10084"}
+      ]
+    },
+    {
+      "label": "Neural world models",
+      "x": 80,
+      "y": 82,
+      "color": "#F9A825",
+      "items": [
+        {"title": "World Models", "url": "https://arxiv.org/abs/1803.10122"},
+        {"title": "PlaNet / Dreamer", "url": "https://arxiv.org/abs/1912.01603"}
+      ]
+    },
+    {
+      "label": "Neuro-symbolic hybrids",
+      "x": 50,
+      "y": 50,
+      "color": "#7E57C2",
+      "items": [
+        {"title": "Differentiable Logic", "url": "https://arxiv.org/abs/1906.10586"},
+        {"title": "Neural-Symbolic Survey", "url": "https://arxiv.org/abs/2105.05330"}
+      ]
+    }
+  ]
