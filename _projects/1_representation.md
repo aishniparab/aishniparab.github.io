@@ -6,6 +6,7 @@ img: /assets/img/representation.png
 importance: 1
 category: themes
 related_publications: false
+date: 2025-10-08
 ---
 
 Every form of intelligence can be viewed as **search over a representational space**. The representation defines what is _expressible_ and what can be _generalized_; the _search algorithm_ defines _how_ we move within that space.
