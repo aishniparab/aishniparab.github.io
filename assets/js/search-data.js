@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-wonder-of-life-no-1-structure-and-emergence",
+        },{id: "post-searching-latent-program-spaces-a-review",
+      
+        title: "Searching Latent Program Spaces: A Review",
+      
+      description: "A close reading of Matthew Macfarlane and Clément Bonnet’s Latent Program Networks, exploring how the model builds test-time search into neural architectures and redefines generalization in program synthesis.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/searching-latent-program-spaces-review/";
+        
+      },
+    },{id: "post-the-wonder-of-life-no-1-structure-and-emergence",
       
         title: "The Wonder of Life No. 1: Structure and Emergence",
       
